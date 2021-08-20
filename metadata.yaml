@@ -1,5 +1,8 @@
 _repo: English-Poems-Volume-02-of-2_66040
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66040-h/images/pessoa02_cover.jpg
 creator:
   author:
     agent_name: Pessoa, Fernando
@@ -19,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/26230
     - http://pt.wikipedia.org/wiki/Fernando_Pessoa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66040#English-Poems-Volume-02-of-2
 gutenberg_issued: '2021-08-11'
 gutenberg_type: Text
 identifiers:
